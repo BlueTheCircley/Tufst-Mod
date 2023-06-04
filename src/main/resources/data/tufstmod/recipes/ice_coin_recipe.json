@@ -1,0 +1,22 @@
+{
+  "group": "ice_coin",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tufstmod:ice_fragments"
+    },
+    {
+      "item": "tufstmod:ice_fragments"
+    },
+    {
+      "item": "tufstmod:ice_fragments"
+    },
+    {
+      "item": "tufstmod:ice_fragments"
+    }
+  ],
+  "result": {
+    "item": "tufstmod:ice_coin",
+    "count": 1
+  }
+}

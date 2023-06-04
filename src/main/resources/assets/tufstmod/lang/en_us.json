@@ -1,0 +1,15 @@
+{
+  "item.tufstmod.ice_fragments" : "Ice Fragment",
+  "item.tufstmod.ice_coin" : "Ice Coin",
+  "item.tufstmod.red_baddie_skin" : "Red Baddie Skin",
+  "item.tufstmod.purple_baddie_skin" : "Purple Baddie Skin",
+  "item.tufstmod.yellow_baddie_skin" : "Yellow Baddie Skin",
+  "item.tufstmod.black_baddie_skin" : "Black Baddie Skin",
+
+  "block.tufstmod.ice_ore" : "Ice Ore",
+
+
+  "itemGroup.tufstitemstab" : "Tufst Mod Items",
+  "itemGroup.tufstblocktab" : "Tufst Mod Blocks"
+
+}

@@ -1,0 +1,6 @@
+{
+  "parent" : "item/generated",
+  "textures" : {
+    "layer0" : "tufstmod:item/purple_baddie_skin"
+  }
+}
